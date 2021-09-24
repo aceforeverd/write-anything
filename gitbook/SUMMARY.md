@@ -1,3 +1,3 @@
 # Write Anything
 
-* [vim tips](docs/vim.md)
+* [vim tips](vim.md)
