@@ -1,0 +1,8 @@
+site_name: MkDocs Demo
+theme:
+  name: readthedocs
+  highlightjs: true
+  hljs_languages:
+    - cpp
+    - yaml
+    - bash
